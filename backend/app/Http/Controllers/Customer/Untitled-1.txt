@@ -1,0 +1,5 @@
+IF ACCOUNT LOADS & GCASH 1000 > CUSTOMER LOAD WANT 100
+    
+    Add Loads || GCASH
+
+else 
